@@ -27,7 +27,7 @@ Or you can manually update your `packages.json` to include Laravel Elixir Livere
 ```
 {
   "devDependencies": {
-    "karl456-laravel-elixir-livereload": "^1.0"
+    "karl456-laravel-elixir-livereload": "^2.0"
   }
 }
 ```
