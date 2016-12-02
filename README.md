@@ -3,9 +3,9 @@
 
 [![npm](https://img.shields.io/npm/v/laravel-elixir-livereload.svg)](https://www.npmjs.com/package/laravel-elixir-livereload)
 [![npm](https://img.shields.io/npm/dm/laravel-elixir-livereload.svg)](https://www.npmjs.com/package/laravel-elixir-livereload)
-[![GitHub issues](https://img.shields.io/github/issues/EHLOVader/laravel-elixir-livereload.svg)](https://github.com/EHLOVader/laravel-elixir-livereload/issues)
-[![GitHub stars](https://img.shields.io/github/stars/EHLOVader/laravel-elixir-livereload.svg)](https://github.com/EHLOVader/laravel-elixir-livereload/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/EHLOVader/laravel-elixir-livereload.svg)](https://github.com/EHLOVader/laravel-elixir-livereload/network)
+[![GitHub issues](https://img.shields.io/github/issues/karl456-laravel-elixir-livereload.svg)](https://github.com/karl456-laravel-elixir-livereload/issues)
+[![GitHub stars](https://img.shields.io/github/stars/karl456-laravel-elixir-livereload.svg)](https://github.com/karl456-laravel-elixir-livereload/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/karl456-laravel-elixir-livereload.svg)](https://github.com/karl456-laravel-elixir-livereload/network)
 [![GitHub license](https://img.shields.io/github/license/ehlovader/laravel-elixir-livereload.svg)](https://github.com/ehlovader/laravel-elixir-livereload)
 
 ## Installation
@@ -14,12 +14,12 @@ Using NPM to install Laravel Elixir Livereload and save your `packages.json`
  
 **For laravel-elixir >v3.x**
 ```
-npm install --save-dev laravel-elixir-livereload
+npm install --save-dev karl456-laravel-elixir-livereload
 ```
 
 **For laravel-elixir < v2.x**
 ```
-npm install --save-dev laravel-elixir-livereload@"^0.0"
+npm install --save-dev karl456-laravel-elixir-livereload@"^0.0"
 ```
 
 Or you can manually update your `packages.json` to include Laravel Elixir Livereload
@@ -27,9 +27,7 @@ Or you can manually update your `packages.json` to include Laravel Elixir Livere
 ```
 {
   "devDependencies": {
-    "gulp": "^3.8.8",
-    "laravel-elixir": "^3.0",
-    "laravel-elixir-livereload": "^1.0"
+    "karl456-laravel-elixir-livereload": "^1.0"
   }
 }
 ```
@@ -41,7 +39,7 @@ Next, add it to your Elixir-enhanced Gulpfile, like so:
 ```js
 var elixir = require('laravel-elixir');
 
-require('laravel-elixir-livereload');
+require('karl456-laravel-elixir-livereload');
 
 elixir(function(mix) {
    mix.livereload();
@@ -121,5 +119,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
 

@@ -1,6 +1,6 @@
 {
-  "name": "laravel-elixir-livereload",
-  "version": "1.1.6",
+  "name": "karl456-laravel-elixir-livereload",
+  "version": "1.1.7",
   "description": "An elixir wrapper for livereload",
   "keywords": [
     "laravel",
@@ -11,27 +11,27 @@
   "author": {
     "name": "Joseph Richardson",
     "email": "j4h.r8n@gmail.com",
-    "url": "https://github.com/EHLOVader"
+    "url": "https://github.com/karl456"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ehlovader/laravel-elixir-livereload"
+    "url": "https://github.com/karl456/laravel-elixir-livereload"
   },
   "bugs": {
-    "url": "https://github.com/ehlovader/laravel-elixir-livereload/issues"
+    "url": "https://github.com/karl456/laravel-elixir-livereload/issues"
   },
-  "homepage": "https://github.com/ehlovader/laravel-elixir-livereload",
+  "homepage": "https://github.com/karl456/laravel-elixir-livereload",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "gulp": "^3.8.8",
-    "gulp-livereload": "^3.8.0",
-    "gulp-util": "~2.2.0"
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-util": "~3.0.7"
   },
   "peerDependencies": {
-    "laravel-elixir": "^5.0"
+    "laravel-elixir": "^6.0.0-15"
   },
   "engines": {
     "node": ">=0.8.0",
