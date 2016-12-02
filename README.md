@@ -1,11 +1,11 @@
 # laravel-elixir-livereload
 > laravel-elixir-livereload plugin for [larvel-elixir](https://github.com/laravel/elixir) and [gulp](https://github.com/wearefractal/gulp)
 
-[![npm](https://img.shields.io/npm/v/laravel-elixir-livereload.svg)](https://www.npmjs.com/package/laravel-elixir-livereload)
-[![npm](https://img.shields.io/npm/dm/laravel-elixir-livereload.svg)](https://www.npmjs.com/package/laravel-elixir-livereload)
-[![GitHub issues](https://img.shields.io/github/issues/karl456-laravel-elixir-livereload.svg)](https://github.com/karl456-laravel-elixir-livereload/issues)
-[![GitHub stars](https://img.shields.io/github/stars/karl456-laravel-elixir-livereload.svg)](https://github.com/karl456-laravel-elixir-livereload/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/karl456-laravel-elixir-livereload.svg)](https://github.com/karl456-laravel-elixir-livereload/network)
+[![npm](https://img.shields.io/npm/v/laravel-elixir-livereload.svg)](https://www.npmjs.com/package/karl456-laravel-elixir-livereload)
+[![npm](https://img.shields.io/npm/dm/laravel-elixir-livereload.svg)](https://www.npmjs.com/package/karl456-laravel-elixir-livereload)
+[![GitHub issues](https://img.shields.io/github/issues/karl456-laravel-elixir-livereload.svg)](https://github.com/karl456/laravel-elixir-livereload/issues)
+[![GitHub stars](https://img.shields.io/github/stars/karl456-laravel-elixir-livereload.svg)](https://github.com/karl456/laravel-elixir-livereload/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/karl456-laravel-elixir-livereload.svg)](https://github.com/karl456/laravel-elixir-livereload/network)
 [![GitHub license](https://img.shields.io/github/license/ehlovader/laravel-elixir-livereload.svg)](https://github.com/ehlovader/laravel-elixir-livereload)
 
 ## Installation
